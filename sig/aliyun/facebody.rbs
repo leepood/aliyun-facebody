@@ -1,0 +1,9 @@
+module Aliyun
+  module Facebody
+    VERSION: String
+
+    private
+
+    def self.sign: -> string
+  end
+end
