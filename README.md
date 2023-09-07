@@ -4,7 +4,7 @@
 
 ## Installation
 
-    `bundle install aliyun-facebody`
+    bundle install aliyun-facebody
 
 或者在Gemfile中
 
